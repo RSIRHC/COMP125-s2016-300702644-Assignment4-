@@ -5,7 +5,7 @@
  * Date updated: August 19th, 2016
  * Description: This web application demonstrates Assignment 4 - JavaScript Banner Ad
  * website: 
- * Github: 
+ * Github: https://github.com/RSIRHC/COMP125-s2016-300702644-Assignment4-BannerAdd.git
  */
 
 // IIFE - Immediately Invoked Function Expression
