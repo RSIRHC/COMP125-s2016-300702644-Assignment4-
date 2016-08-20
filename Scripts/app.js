@@ -4,7 +4,7 @@
  * Date Created : August 19th, 2016
  * Date updated: August 19th, 2016
  * Description: This web application demonstrates Assignment 4 - JavaScript Banner Ad
- * website: 
+ * website: http://comp125-s2016-300702644-assignment4-banneradd.azurewebsites.net 
  * Github: https://github.com/RSIRHC/COMP125-s2016-300702644-Assignment4-BannerAdd.git
  */
 
